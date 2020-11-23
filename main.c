@@ -63,7 +63,7 @@ main()
 /*Funtion Name: vCallbackFn
   Function Arguments:void * p - third parameter in the api app_timer_create(),
                     a general-purpose pointer that is passed to the timeout handler callback function.
-  detail:Function prints a incremented counter value when ever it is called/
+  detail:Function prints a incremented counter value when ever it is called*/
 
 void vCallbackFn(void * p)
 {
